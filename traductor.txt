@@ -38,3 +38,58 @@ class
 ¤as
 s un tipo de datos en el programa
 8
+const,onstantes,ece referencia a la adecuada declaracion de variables u objetos como  inmutables.,9,
+const
+onstantes
+ece referencia a la adecuada declaracion de variables u objetos como  inmutables.
+9
+const_cast,perador,s un punterio a cualquir tipo de obejto o un puntero a un ti que indentifica,10,
+const_cast
+perador
+s un punterio a cualquir tipo de obejto o un puntero a un ti que indentifica
+10
+continue,ontinuar,acer referencia a como continuar un proceso,11,
+continue
+ontinuar
+acer referencia a como continuar un proceso
+11
+default,efecto,e utiliza como sentencia para los bloques swich junto al case.,12,
+default
+efecto
+e utiliza como sentencia para los bloques swich junto al case.
+12
+delete,orrar,e usa para borrar cuaquier tipo de caracteres,13,
+delete
+orrar
+e usa para borrar cuaquier tipo de caracteres
+13
+do},acer,a sentencia se uliza para especificar un ciclo condicional,14,
+do}
+acer
+a sentencia se uliza para especificar un ciclo condicional
+14
+double,oble,on estructiras logicas ,15,
+double
+oble
+on estructiras logicas 
+15
+dynamic,inamico,s para hacer programacion dinamica ,16,
+dynamic
+inamico
+s para hacer programacion dinamica 
+16
+else,ontrario,ara ejecurtar bloque de intruciones ,17,
+else
+ontrario
+ara ejecurtar bloque de intruciones 
+17
+enum,numeradas,irve para las variables enumeradas,18,
+enum
+numeradas
+irve para las variables enumeradas
+18
+explicit,xplicito,s una opcion para activar la opcion esplicit,19,
+explicit
+xplicito
+s una opcion para activar la opcion esplicit
+19
