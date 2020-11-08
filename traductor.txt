@@ -1,5 +1,40 @@
-if,if,if,if,
-if
-if
-if
-if
+asm,programacion en esablador ,los datos se definen en las secciones ,1,
+asm
+programacion en esablador 
+los datos se definen en las secciones 
+1
+auto,automatico,en indica al compilador que utilice la exprecion de inicializacion ,2,
+auto
+automatico
+en indica al compilador que utilice la exprecion de inicializacion 
+2
+bool,boleano,tipo de estado logico,3,
+bool
+boleano
+tipo de estado logico
+3
+break,detener,detener un bucle,4,
+break
+detener
+detener un bucle
+4
+case,caso,dise¤ado para genera mayor productividad al momento de programar,5,
+case
+caso
+dise¤ado para genera mayor productividad al momento de programar
+5
+catch,captura ,bloque que define la instruciones ,5,
+catch
+captura 
+bloque que define la instruciones 
+5
+char,valor numerico,podemos almacenar un valor entero en un espacio de memoria,7,
+char
+valor numerico
+podemos almacenar un valor entero en un espacio de memoria
+7
+class,¤as,s un tipo de datos en el programa,8,
+class
+¤as
+s un tipo de datos en el programa
+8

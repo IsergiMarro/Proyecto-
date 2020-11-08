@@ -44,15 +44,19 @@ void abrir(){
 	}else{
 		
 	       do{
-	       	cout <<"ingrese las la Informacion:";
+	       	cout <<"ingrese la palabra:";
 	       	cin>>datos.informacion;
 	       	cin.ignore();
-	       	cout<<"ingrese los datos que desea Traducir:";
+	       	cout<<"ingrese traduccion:";
+	       	cin.ignore();
 	       	getline(cin,datos.traducir);
-	       	cout<<"traduccion Finalizada:";
+	       	cin.ignore();
+	       	cout<<"ingrese funcionalidad:";
+	       	cin.ignore();
 	       	getline(cin,datos.finalizada);
 	       	cout<<"ingrese su comentario Final:";
 	       	cin>>datos.final;
+	       	cin.ignore();
 	       	
 	       	traductor<<datos.informacion<<","<<datos.traducir<<","<<datos.finalizada<<","<<datos.final<<","<<endl;
 	        traductor<<datos.informacion<<endl;
